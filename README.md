@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [cryptowatch-javier.vercel.app]([https://cryptowatch-javier.vercel.app](https://cryptowatch-dzldvha6u-javier-castillo-arrietas-projects.vercel.app))
+🔗 [cryptowatch-javier.vercel.app](https://vercel.com/javier-castillo-arrietas-projects/cryptowatch/3CUgR8bhfcZr9jj6A367pSQd7HyG)
 
 ---
 
