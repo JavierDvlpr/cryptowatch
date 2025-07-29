@@ -1,25 +1,43 @@
-# CryptoWatch
+# 📊 CryptoWatch
 
-**CryptoWatch** is a modern and responsive cryptocurrency dashboard built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It fetches real-time market data from the free [CoinGecko API v3](https://www.coingecko.com/en/api/documentation) to display live prices, market caps, and more for top cryptocurrencies.
+**CryptoWatch** is a professional, responsive cryptocurrency dashboard built with **Next.js**, **Tailwind CSS**, and the **CoinGecko API**. It displays real-time data on top coins, dynamic charts, search functionality, and supports dark/light mode.
 
-## ✨ Features
+---
 
-- Real-time cryptocurrency data
-- Light and dark mode support
-- Clean, responsive UI inspired by SaaS products
-- Interactive dashboard with smooth animations
-- Built entirely with open-source technologies
+## 🚀 Live Demo
 
-## 📦 Tech Stack
+🔗 [cryptowatch-javier.vercel.app](https://cryptowatch-javier.vercel.app)
 
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [CoinGecko API](https://www.coingecko.com/en/api/documentation)
+---
 
-## 🚀 Getting Started
+## 🛠 Tech Stack
 
-To run the project locally:
+- Next.js 14
+- React.js
+- Tailwind CSS
+- CoinGecko Public API
+- Chart.js
+- Vercel (Deployment)
+
+---
+
+## 🧠 Features
+
+- 💹 Real-time price updates
+- 🔍 Search cryptocurrencies by name or symbol
+- 🌙 Dark and light mode toggle
+- 📈 Price history charts (7-day trend)
+- 🔄 Responsive design for mobile and desktop
+
+---
+
+## 📸 Preview
+
+![screenshot](https://raw.githubusercontent.com/JavierDvlpr/cryptowatch/main/public/preview.jpeg)
+
+---
+
+## 📂 How to Run Locally
 
 ```bash
 git clone https://github.com/JavierDvlpr/cryptowatch.git
